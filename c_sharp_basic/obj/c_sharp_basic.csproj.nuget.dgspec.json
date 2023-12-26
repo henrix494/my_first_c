@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natan\\source\\repos\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj": {}
+    "C:\\Users\\natan\\Desktop\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natan\\source\\repos\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj": {
+    "C:\\Users\\natan\\Desktop\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natan\\source\\repos\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj",
+        "projectUniqueName": "C:\\Users\\natan\\Desktop\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj",
         "projectName": "c_sharp_basic",
-        "projectPath": "C:\\Users\\natan\\source\\repos\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj",
+        "projectPath": "C:\\Users\\natan\\Desktop\\c_sharp_basic\\c_sharp_basic\\c_sharp_basic.csproj",
         "packagesPath": "C:\\Users\\natan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natan\\source\\repos\\c_sharp_basic\\c_sharp_basic\\obj\\",
+        "outputPath": "C:\\Users\\natan\\Desktop\\c_sharp_basic\\c_sharp_basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natan\\AppData\\Roaming\\NuGet\\NuGet.Config",
